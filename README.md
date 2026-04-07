@@ -1,5 +1,3 @@
-# student-performance-analysis
-
 # Student Performance Analysis 📊
 
 ## 📌 Overview
